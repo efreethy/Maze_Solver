@@ -1,6 +1,6 @@
 # Maze_Solver
 
-This program solves mazes. The primary code which generates a solution can be
+This program solves mazes. The solution can be
 found in lib/solve_maze.rb
 
 You can run this project from the command line. It takes a maze file path as input
